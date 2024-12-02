@@ -1,0 +1,3 @@
+[submodule "Federated Learning server-client"]
+	path = Federated Learning server-client
+	url = https://github.com/flashpunch0-0/bc-fl
