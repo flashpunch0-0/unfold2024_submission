@@ -1,3 +1,6 @@
 [submodule "Federated Learning server-client"]
 	path = Federated Learning server-client
 	url = https://github.com/flashpunch0-0/bc-fl
+[submodule "BC-FL landing page"]
+	path = BC-FL landing page
+	url = https://github.com/sirdesai22/bcfl-landing
